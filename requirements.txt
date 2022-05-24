@@ -73,6 +73,7 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 distlib==0.3.4
 distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
 Django==4.0.4
+djangorestframework==3.13.1
 docutils @ file:///C:/ci/docutils_1620828264669/work
 entrypoints @ file:///C:/ci/entrypoints_1649926621128/work
 et-xmlfile==1.1.0
